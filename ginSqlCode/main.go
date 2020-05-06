@@ -69,3 +69,6 @@ type Person struct {
 	Name string
 	Age  int
 }
+func su(){
+	
+}
